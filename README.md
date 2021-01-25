@@ -1,7 +1,7 @@
 ## 個人データ
-* 氏名：上野広樹
+* 氏名：上野 広樹
 * ID：hirokisan
-* Mail：hiroki.jobchange@gmail.com
+* Mail：dev@hirokiueno.com
 
 ## 各種URL
 * GitHub：[https://github.com/hirokisan/](https://github.com/hirokisan/)
