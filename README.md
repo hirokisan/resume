@@ -1,13 +1,19 @@
 ## 個人データ
-* 氏名：上野 広樹
-* ID：hirokisan
-* Mail：dev@hirokiueno.com
+
+| ID | hirokisan |
+| - | - |
+| 氏名 | 上野 広樹 |
+| Mail | dev@hirokiueno.com |
 
 ## 各種URL
-* GitHub：[https://github.com/hirokisan/](https://github.com/hirokisan/)
-* Qiita：[https://qiita.com/hirokisan](https://qiita.com/hirokisan)
-* Wantedly：[https://www.wantedly.com/users/7225760](https://www.wantedly.com/users/7225760)
-* 転職ドラフト：[https://job-draft.jp/users/22034](https://job-draft.jp/users/22034)
+
+
+| 媒体 | URL |
+| - | - |
+| GitHub | [https://github.com/hirokisan/](https://github.com/hirokisan/) |
+| Qiita | [https://qiita.com/hirokisan](https://qiita.com/hirokisan) |
+| Wantedly | [https://www.wantedly.com/users/7225760](https://www.wantedly.com/users/7225760) |
+| 転職ドラフト | [https://job-draft.jp/users/22034](https://job-draft.jp/users/22034) |
 
 ## 職務経歴（概要）
 ### ソフトウェア開発
