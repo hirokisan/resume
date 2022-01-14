@@ -4,14 +4,14 @@
 
 | 案件 | 期間 | 規模 | 役割 | 技術 |
 | - | - | - | - | - |
-| 効果検証 | 2019-06〜2019-07 | 4名 | バックエンド | Go,MongoDB,Elasticsearch,GoogleAnalytics,... |
-| 提案分割 | 2019-08〜2019-09 | 4名 | バックエンド | Go,MongoDB,AmazonSQS,... |
-| 指標取得 | 2019-10〜2019-11 | 4名 | プロジェクトオーナー,バックエンド | Go,MongoDB,HiCustomer,... |
-| 集客提案 | 2020-04〜2020-05 | 4名 | プロジェクトオーナー,バックエンド | Go,MongoDB,... |
-| フリー提案 | 2020-07〜2020-08 | 4名 | プロジェクトオーナー,バックエンド | Go,MongoDB,... |
-| レポート解釈 | 2020-10〜2020-12 | 4名 | プロジェクトオーナー,バックエンド | Go,MongoDB,AmazonSQS,... |
-| KWレポート | 2021-06〜2021-10 | 6名 | プロジェクトオーナー,バックエンド | Go,MongoDB,Elasticsearch,AmazonSQS,GoogleAnalytics,SearchConsole,... |
-| メール通知 | 2021-12〜2022-01 | 3名 | バックエンド | Go,MongoDB,AmazonSQS,Mailgun,... |
+| 効果検証 | 2019-06〜2019-07 | 4名 | バックエンド | Go,OpenAPI,MongoDB,Elasticsearch,GoogleAnalytics,... |
+| 提案分割 | 2019-08〜2019-09 | 4名 | バックエンド | Go,OpenAPI,MongoDB,AmazonSQS,... |
+| 指標取得 | 2019-10〜2019-11 | 4名 | プロジェクトオーナー,バックエンド | Go,OpenAPI,MongoDB,HiCustomer,... |
+| 集客提案 | 2020-04〜2020-05 | 4名 | プロジェクトオーナー,バックエンド | Go,OpenAPI,MongoDB,... |
+| フリー提案 | 2020-07〜2020-08 | 4名 | プロジェクトオーナー,バックエンド | Go,OpenAPI,MongoDB,... |
+| レポート解釈 | 2020-10〜2020-12 | 4名 | プロジェクトオーナー,バックエンド | Go,OpenAPI,MongoDB,AmazonSQS,... |
+| KWレポート | 2021-06〜2021-10 | 6名 | プロジェクトオーナー,バックエンド | Go,OpenAPI,MongoDB,Elasticsearch,AmazonSQS,GoogleAnalytics,SearchConsole,... |
+| メール通知 | 2021-12〜2022-01 | 3名 | バックエンド | Go,OpenAPI,MongoDB,AmazonSQS,Mailgun,... |
 
 ### 運用/QA
 
