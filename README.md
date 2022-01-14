@@ -72,39 +72,39 @@
 
 ### 言語
 
-* Go
-* TypeScript
-* JavaScript
-* <span style="color: grey;">PHP</span>
-* <span style="color: grey;">Python</span>
-* <span style="color: grey;">Node.js</span>
-* <span style="color: grey;">HTML</span>
-* <span style="color: grey;">CSS</span>
+* **Go**
+* **TypeScript**
+* **JavaScript**
+* PHP
+* Python
+* Node.js
+* HTML
+* CSS
 
 ### ミドルウェア
 
-* MongoDB
-* Elasticsearch
-* <span style="color: grey;">RDB(MySQL,PostgreSQL)</span>
-* <span style="color: grey;">Redis</span>
+* **MongoDB**
+* **Elasticsearch**
+* RDB(MySQL,PostgreSQL)
+* Redis
 
 ### フレームワーク
 
-* goa
-* React
-* ReactNative
-* Next.js
-* <span style="color: grey;">Laravel</span>
-* <span style="color: grey;">FuelPHP</span>
-* <span style="color: grey;">CakePHP</span>
+* **goa**
+* **React**
+* **ReactNative**
+* **Next.js**
+* Laravel
+* FuelPHP
+* CakePHP
 
 ### クラウドサービス
 
-* AWS
-* GCP
-* Firebase
-* <span style="color: grey;">Heroku</span>
-* <span style="color: grey;">Vercel</span>
+* **AWS**
+* **GCP**
+* **Firebase**
+* Heroku
+* Vercel
 
 ### エディタ
 
