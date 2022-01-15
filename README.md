@@ -112,6 +112,17 @@
 
 * Vim
 
+## 業務外活動
+
+### 趣味の開発
+
+詳細は[->こちら](./hobby/README.md)
+
+| 案件 | 期間 | URL |  技術 |
+| - | - | - | - |
+| YouTube動画分析ツールの開発/運用 |  2021-09〜 | [https://doga-seo.com/](https://doga-seo.com/) | Go,goa,Next.js,Heroku,Vercel,GithubActions,YoutubeDataAPI |
+| 「ぐちあつめ」の開発/運用 | 2018-06〜 | [https://guchiatsume.com/](https://guchiatsume.com/) | Laravel,Heroku,HTML,CSS,JavaScript |
+
 ## 学歴
 
 * 名古屋大学 情報文化学部 自然情報学科 2009年4月〜2015年3月
