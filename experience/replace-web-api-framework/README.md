@@ -1,0 +1,23 @@
+## WebAPIフレームワーク移行
+
+- 背景
+  - forkしたgo-swaggerに変更を加えて利用している
+  - fork元の変更を取り込む対応はできていない
+- 課題
+  - fork元の変更に追従できていない
+    - M1 Macで使えない
+  - go-swaggerにより生成されたGoコードが散らばっている
+    - 不要な依存が各所に生まれている
+- 方針
+  - forkしたgo-swaggerの利用をやめる
+  - oapi-codegenを利用する
+- 経緯
+  - OpenAPIという形でAPI定義を利用者と共有している
+    - このI/Fを変更する必要性は特になく、変更しない利点が大きい
+  - API GatewayでOpenAPIを割り当てる手もありそう
+  - oapi-codegenがgo-swaggerの代替として使えそう
+    - 現状のOpenAPI v2をv3に変換すればoapi-codegenでも使える
+  - oapi-codegenが課題の解決として手軽そう
+  - 試験的に既存APIの置き換えに取り組んだ
+    - 明確な移行手順が描けた
+    - 既存のgo-swagger生成のGoコード依存の整理も副次的に実現できる
