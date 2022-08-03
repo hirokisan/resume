@@ -47,7 +47,7 @@
 
 | 概要 | 内容 |
 | - | - |
-| MongoDBのGoクライアント移行 | 依存していた外部ライブラリがメンテナンスされなくなったため、代替に移行する |
+| MongoDBのGoクライアント移行 | 依存していた外部ライブラリがメンテナンスされなくなったため、代替に移行する 詳細は[こちら](./replace-mongodb-go-client/) |
 | WebAPIフレームワーク移行 | go-swaggerからoapi-codegenに移行する 詳細は[こちら](./replace-web-api-framework/README.md)|
 
 ### スクラム運営
