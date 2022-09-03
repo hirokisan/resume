@@ -1,159 +1,97 @@
-職務経歴書
----
+# Resume
 
-## 基本情報
+## Personal Information
 
-| ID | hirokisan |
-| - | - |
-| 氏名 | 上野 広樹 |
-| Mail | dev@hirokiueno.com |
+Name: Hiroki Ueno
 
-## アカウント
+Mail: dev@hirokiueno.com
 
-| 媒体 | URL |
-| - | - |
-| GitHub | [https://github.com/hirokisan](https://github.com/hirokisan) |
-| Qiita | [https://qiita.com/hirokisan](https://qiita.com/hirokisan) |
-| Wantedly | [https://www.wantedly.com/users/7225760](https://www.wantedly.com/users/7225760) |
-| 転職ドラフト | [https://job-draft.jp/users/22034](https://job-draft.jp/users/22034) |
-| LAPRAS | [https://lapras.com/public/KNVGVAZ](https://lapras.com/public/KNVGVAZ) |
+Link: https://hirokiueno.com/
 
-## 職務・案件履歴
+## History
 
-詳細は[->こちら](./experience/README.md)
+### a certain company X, 2022-03 ~
 
-| 期間 | 会社 | 案件 | 役割 |
-| - | - | - | - |
-| 2018/12〜 | 某社@(Tokyo,Remote) | SaaS型Webマーティングツールの開発・運用 | バックエンド・QA・プロジェクトオーナー・スクラムマスター |
-| 2016/4〜2018/11 | ファブリカコミュニケーションズ@(Aichi,Tokyo) | 自動車関連サービスの企画・開発・運用 | 企画・開発 |
-| 2015/8〜2016/1 | ファブリカベトナム@Vietnam | 開発スキル獲得、社内サービス開発 | インターンシップ |
+Role: Scrum Master
 
-### 某社（2018/12〜）
+Technical Stack: GitHub,Slack
 
-#### SaaS型Webマーティングツールの開発・運用@(Tokyo,Remote)
+Task: スクラムチーム運営
 
-* WebAPI設計/開発
-* Batch設計/開発
-* 機能開発
-* 運用/QA
-* プロジェクトオーナー
-* スクラムマスター
+More Detail: [here](./experience/README.md)
 
-### ファブリカコミュニケーションズ（2016/4〜2018/11）
+### a certain company X, 2018-12 ~
 
-#### 中古車情報サイトの企画・開発・運用@Aichi
-[https://www.kurumaerabi.com/](https://www.kurumaerabi.com/)
+Role: Software Engineer
 
-* ABテストの実施・分析
-* ワイヤー制作
-* マークアップ
-* 部分的なKPI管理
-* SEO案件の開発
+Technical Stack: Go,OpenAPI,MongoDB,Elasticsearch,AWS
 
-#### 自動車コンテンツサイトの開発・運用@Tokyo
-[http://car-me.jp/](http://car-me.jp/)
+Task: SaaS型WEBマーティングツール開発
 
-* ABテストの実施・分析
-* 外部連携用RSSの設計・開発
-* 部分的なKPI管理
+More Detail: [here](./experience/README.md)
 
-#### その他の開発
-* 小規模開発案件の進行管理
-* Wordpressを用いたコンテンツサイト開発
-* jekyllを用いたコンテンツサイト開発
-* ブラウザオートメーションRPAツール開発
+### fabrica communications, 2016-04 ~ 2018-11
 
-### ファブリカベトナム（2015/8〜2016/1）
+Role: Software Engineer
 
-#### インターンシップ@Vietnam
-* 開発スキル習得
-* CakePHP2系を利用した社内向けサービス開発・リリース
+Technical Stack: PHP,MySQL,HTML,CSS,JavaScript
 
-## 技術スタック
+Task: 自動車コンテンツサイト開発、中古車情報サイト開発
 
-詳細は[->こちら](./skill/README.md)
+More Detail: [here](./experience/README.md)
 
-### 言語
+### fabrica communications, 2016-04 ~ 2018-11
 
-* **Go**
-* **TypeScript**
-* **JavaScript**
-* PHP
-* Python
-* Node.js
-* HTML
-* CSS
+Role: Growth Hacker
 
-### ミドルウェア
+Technical Stack: GoogleAnalytics,SearchConsole,GoogleSheets
 
-* **MongoDB**
-* **Elasticsearch**
-* RDB(MySQL,PostgreSQL)
-* Redis
+Task: 自動車コンテンツサイト改善、中古車情報サイト改善
 
-### フレームワーク
+More Detail: [here](./experience/README.md)
 
-* **goa**
-* **React**
-* **ReactNative**
-* **Next.js**
-* Laravel
-* FuelPHP
-* CakePHP
+## hobby
 
-### クラウドサービス
+### Youtube動画分析サービス開発, 2021-09 ~ irregular intervals
 
-* **AWS**
-* **GCP**
-* **Firebase**
-* Heroku
-* Vercel
+Technical Stack: Go,OpenAPI,TypeScript,Next.js,Heroku,Vercel
 
-### エディタ
+Link: https://doga-seo.com/
 
-* Vim
+More Detail: [here](./hobby/README.md)
 
-## 業務外活動
+### 課題共有サービス開発, 2018-06 ~ irregular intervals
 
-### 趣味の開発
+Technical Stack: PHP,Laravel5,Heroku
 
-詳細は[->こちら](./hobby/README.md)
+Link: https://guchiatsume.com/
 
-| 案件 | 期間 | URL |  技術 |
-| - | - | - | - |
-| YouTube動画分析ツールの開発/運用 |  2021-09〜 | [https://doga-seo.com/](https://doga-seo.com/) | Go,goa,Next.js,Heroku,Vercel,GithubActions,YoutubeDataAPI |
-| 「ぐちあつめ」の開発/運用 | 2018-06〜 | [https://guchiatsume.com/](https://guchiatsume.com/) | Laravel,Heroku,HTML,CSS,JavaScript |
+More Detail: [here](./hobby/README.md)
 
-## 学歴
+## Academic Background
 
-* 名古屋大学 情報文化学部 自然情報学科 2009年4月〜2015年3月
+### Nagoya University, 2009-04 ~ 2015-03
 
-## 資格
+Degree: BA, Informatics and Science
 
-* TOEIC 870点 2015年3月
+## Personality
 
-## 意欲・興味
+Motivation: 少人数のチームで小さく早くリリースを行い、フィードバックを受けながら改善のサイクルを回していく開発スタイル
 
-### 意欲
+Interest:
+- モノリスからマイクロサービスへの移行
+- 成熟しつつあるコードベースのリファクタリング
+- 洗練されたコード設計
+- アーキテクチャ設計
+- 高トラフィックなサービス開発
 
-* 少人数のチームで小さく早くリリースを行い、フィードバックを受けながら改善のサイクルを回していく開発スタイルを好みます
-* 最近はバックエンドの開発が比較的得意ですが、フロントエンド 、インフラ面への興味もあります
+Environment:
+- プロダクトの負債返済の活動が尊重される
+- 同期的な場(e.g. MTG)が必要最低限であり、非同期での協調がベースである
+- 日々の事務手続きが電子化されている
+- 病欠や私用の欠勤に対してネガティブな反応がない
+- 目標設定や評価設計が合理的に設計されている
 
-### 興味
-
-* 最近はモノリスからマイクロサービスへの移行に興味があります
-* 最近はOSSへのContributeに興味があります
-* 成熟しつつあるコードベースのリファクタリングに興味があります
-* より洗練されたコード設計に興味があります
-
-### 求める環境
-
-* プロダクトの負債返済の活動が尊重される
-* 同期的な(MTG等の)場が必要最低限であり、非同期での協調がベースである
-* 日々の事務手続きが電子化されてストレスが少ない
-* 病欠や私用の欠勤に対してネガティブな反応がない
-* 目標設定や評価設計が合理的に設計されている
-
-## 希望条件
-
-* 家庭の事情により、フルリモートワーク/フレックスタイム制での勤務を希望します
+Requirements:
+- フルリモート
+- フレックスタイム
