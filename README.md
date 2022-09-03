@@ -14,9 +14,9 @@ Link: https://hirokiueno.com/
 
 Role: Scrum Master
 
-Technical Stack: GitHub,Slack
-
 Task: スクラムチーム運営
+
+Technical Stack: GitHub,Slack
 
 More Detail: [here](./experience/README.md)
 
@@ -24,9 +24,9 @@ More Detail: [here](./experience/README.md)
 
 Role: Software Engineer
 
-Technical Stack: Go,OpenAPI,MongoDB,Elasticsearch,AWS
-
 Task: SaaS型WEBマーティングツール開発
+
+Technical Stack: Go,OpenAPI,MongoDB,Elasticsearch,AWS
 
 More Detail: [here](./experience/README.md)
 
@@ -34,9 +34,9 @@ More Detail: [here](./experience/README.md)
 
 Role: Software Engineer
 
-Technical Stack: PHP,MySQL,HTML,CSS,JavaScript
-
 Task: 自動車コンテンツサイト開発、中古車情報サイト開発
+
+Technical Stack: PHP,MySQL,HTML,CSS,JavaScript
 
 More Detail: [here](./experience/README.md)
 
@@ -44,9 +44,9 @@ More Detail: [here](./experience/README.md)
 
 Role: Growth Hacker
 
-Technical Stack: GoogleAnalytics,SearchConsole,GoogleSheets
-
 Task: 自動車コンテンツサイト改善、中古車情報サイト改善
+
+Technical Stack: GoogleAnalytics,SearchConsole,GoogleSheets
 
 More Detail: [here](./experience/README.md)
 
