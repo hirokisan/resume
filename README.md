@@ -18,7 +18,7 @@ Task: スクラムチーム運営
 
 Technical Stack: GitHub,Slack
 
-More Detail: [here](./experience/README.md)
+More Detail: [here](./a-certain-company-x-scrum-master/README.md)
 
 ### a certain company X, 2018-12 ~
 
