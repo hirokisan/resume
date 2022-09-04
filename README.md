@@ -66,15 +66,11 @@ Technical Stack: Go,OpenAPI,TypeScript,Next.js,Heroku,Vercel
 
 Link: https://doga-seo.com/
 
-More Detail: [here](./hobby/README.md)
-
 ### 課題共有サービス開発, 2018-06 ~ irregular intervals
 
 Technical Stack: PHP,Laravel5,Heroku
 
 Link: https://guchiatsume.com/
-
-More Detail: [here](./hobby/README.md)
 
 ## Academic Background
 
