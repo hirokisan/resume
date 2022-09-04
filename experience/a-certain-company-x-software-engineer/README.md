@@ -40,8 +40,8 @@ Development: as daily work
 - Type:
   - Feature: 10+Projects
   - Debt:
-    - [MongoDBのGoクライアント移行](./replace-mongodb-go-client/README.md)
-    - [WebAPIフレームワーク移行](./replace-web-api-framework/README.md)
+    - [MongoDBのGoクライアント移行](../replace-mongodb-go-client/README.md)
+    - [WebAPIフレームワーク移行](../replace-web-api-framework/README.md)
 - Responsibility: 要件確認,仕様整理,タスク化,設計,実装,テスト,運用
 
 ## Action & Result
