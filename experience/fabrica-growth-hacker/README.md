@@ -6,6 +6,10 @@ Task: 自動車コンテンツサイト改善、中古車情報サイト改善
 
 Technical Stack: GoogleAnalytics,SearchConsole,GoogleSheets
 
+Link:
+- https://www.kurumaerabi.com/
+- https://car-me.jp/
+
 Methodology: Waterfall
 
 Transaction: B2C
