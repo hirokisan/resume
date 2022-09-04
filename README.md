@@ -36,9 +36,9 @@ Role: Software Engineer
 
 Task: 自動車コンテンツサイト開発、中古車情報サイト開発
 
-Technical Stack: PHP,MySQL,HTML,CSS,JavaScript
+Technical Stack: PHP,MySQL,HTML,CSS,JavaScript,Node.js
 
-More Detail: [here](./experience/README.md)
+More Detail: [here](./experience/fabrica-software-engineer/README.md)
 
 ### fabrica communications, 2016-04 ~ 2018-11
 
