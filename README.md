@@ -48,7 +48,7 @@ Task: 自動車コンテンツサイト改善、中古車情報サイト改善
 
 Technical Stack: GoogleAnalytics,SearchConsole,GoogleSheets
 
-More Detail: [here](./experience/README.md)
+More Detail: [here](./experience/fabrica-growth-hacker/README.md)
 
 ## hobby
 
