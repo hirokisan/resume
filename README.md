@@ -28,7 +28,7 @@ Task: SaaS型WEBマーティングツール開発
 
 Technical Stack: Go,OpenAPI,MongoDB,Elasticsearch,AWS
 
-More Detail: [here](./experience/README.md)
+More Detail: [here](./experience/a-certain-company-x-software-engineer/README.md)
 
 ### fabrica communications, 2016-04 ~ 2018-11
 
