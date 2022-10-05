@@ -10,7 +10,7 @@ Link: https://hirokiueno.com/
 
 ## History
 
-### a certain company X, 2022-03 ~
+### A certain company X, 2022-03 ~
 
 Role: Scrum Master
 
@@ -20,7 +20,7 @@ Technical Stack: GitHub,Slack
 
 More Detail: [here](./experience/a-certain-company-x-scrum-master/README.md)
 
-### a certain company X, 2018-12 ~
+### A certain company X, 2018-12 ~
 
 Role: Software Engineer
 
@@ -30,7 +30,7 @@ Technical Stack: Go,OpenAPI,MongoDB,Elasticsearch,AWS
 
 More Detail: [here](./experience/a-certain-company-x-software-engineer/README.md)
 
-### fabrica communications, 2016-04 ~ 2018-11
+### Fabrica communications, 2016-04 ~ 2018-11
 
 Role: Software Engineer
 
@@ -44,7 +44,7 @@ Link:
 
 More Detail: [here](./experience/fabrica-software-engineer/README.md)
 
-### fabrica communications, 2016-04 ~ 2018-11
+### Fabrica communications, 2016-04 ~ 2018-11
 
 Role: Growth Hacker
 
@@ -58,7 +58,13 @@ Link:
 
 More Detail: [here](./experience/fabrica-growth-hacker/README.md)
 
-## hobby
+## Hobby
+
+### Bybit client library for Go, 2021-03 ~ irregular intervals
+
+Technical Stack: Go
+
+Link: https://github.com/hirokisan/bybit
 
 ### Youtube動画分析サービス開発, 2021-09 ~ irregular intervals
 
