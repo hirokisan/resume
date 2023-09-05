@@ -10,6 +10,16 @@ Link: https://hirokiueno.com/
 
 ## History
 
+### A certain company Y, 2023-06 ~
+
+Role: Software Engineer
+
+Task: 駐車場管理サービス開発
+
+Technical Stack: Go,OpenAPI,MySQL,TypeScript,Next.js
+
+More Detail: [here](./experience/a-certain-company-y-software-engineer/README.md)
+
 ### A certain company X, 2022-03 ~
 
 Role: Scrum Master
