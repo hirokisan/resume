@@ -82,7 +82,7 @@ Technical Stack: Go,OpenAPI,TypeScript,Next.js,Heroku,Vercel
 
 Link: https://doga-seo.com/
 
-### 課題共有サービス開発, 2018-06 ~ irregular intervals
+### 課題共有サービス開発, 2018-06 ~ 2023-08
 
 Technical Stack: PHP,Laravel5,Heroku
 
