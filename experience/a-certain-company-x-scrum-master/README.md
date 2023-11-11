@@ -1,4 +1,4 @@
-# a-certain-company-x, 2022-03 ~
+# a-certain-company-x, 2022-03 ~ 2023-10
 
 Role: Scrum Master
 

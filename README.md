@@ -10,6 +10,16 @@ Link: https://hirokiueno.com/
 
 ## History
 
+### A certain company X, 2023-11 ~
+
+Role: Engineering Manager
+
+Task: バックエンド領域のマネジメント
+
+Technical Stack: GitHub,Slack
+
+More Detail: [here](./experience/a-certain-company-x-engineering-manager/README.md)
+
 ### A certain company Y, 2023-06 ~
 
 Role: Software Engineer
@@ -20,7 +30,7 @@ Technical Stack: Go,OpenAPI,MySQL,TypeScript,Next.js
 
 More Detail: [here](./experience/a-certain-company-y-software-engineer/README.md)
 
-### A certain company X, 2022-03 ~
+### A certain company X, 2022-03 ~ 2023-10
 
 Role: Scrum Master
 
