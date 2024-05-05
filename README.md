@@ -20,7 +20,7 @@ Technical Stack: GitHub,Slack
 
 More Detail: [here](./experience/a-certain-company-x-engineering-manager/README.md)
 
-### A certain company Y, 2023-06 ~
+### A certain company Y, 2023-06 ~ 2024-03
 
 Role: Software Engineer
 

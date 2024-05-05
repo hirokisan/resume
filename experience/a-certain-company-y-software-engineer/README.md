@@ -1,4 +1,4 @@
-# a certain company Y, 2023-06 ~
+# a certain company Y, 2023-06 ~ 2024-03
 
 Role: Software Engineer
 
