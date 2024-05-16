@@ -96,7 +96,7 @@ Link: https://doga-seo.com/
 
 Technical Stack: PHP,Laravel5,Heroku
 
-Link: https://guchiatsume.com/
+Link: `https://guchiatsume.com/`
 
 ## Academic Background
 
