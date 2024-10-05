@@ -20,6 +20,16 @@ Technical Stack: GitHub,Slack
 
 More Detail: [here](./experience/a-certain-company-x-engineering-manager/README.md)
 
+### A certain company Y, 2024-06 ~ 2024-09
+
+Role: Software Engineer
+
+Task: 不動産売買DXプラットフォーム開発
+
+Technical Stack: Go,gRPC,Auth0,MySQL,TypeScript,Next.js
+
+More Detail: [here](./experience/a-certain-company-y-2-software-engineer/README.md)
+
 ### A certain company Y, 2023-06 ~ 2024-03
 
 Role: Software Engineer
