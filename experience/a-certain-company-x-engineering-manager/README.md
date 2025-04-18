@@ -1,4 +1,4 @@
-# a certain company X, 2023-11 ~
+# a certain company X, 2023-11 ~ 2025-02
 
 Role: Engineering Manager
 

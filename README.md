@@ -10,7 +10,17 @@ Link: https://hirokiueno.com/
 
 ## History
 
-### A certain company X, 2023-11 ~
+### A certain company X, 2025-03 ~
+
+Role: Engineering Manager & Product Lead
+
+Task: プロダクト志向チームのマネジメント
+
+Technical Stack: GitHub,Slack
+
+More Detail: [here](./experience/a-certain-company-x-product-team-manager/README.md)
+
+### A certain company X, 2023-11 ~ 2025-02
 
 Role: Engineering Manager
 
